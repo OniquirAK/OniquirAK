@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OniquirAK
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning JavaScripyhttps://github.com/OniquirAK/OniquirAK
+- 🌱 I’m currently learning JavaScript
 
 <!---
 OniquirAK/OniquirAK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
