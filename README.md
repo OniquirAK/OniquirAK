@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on HiddenRat<br>🌱 I’m currently learning MySQL<br>💬 Ask me about PHP<br>⚡ Fun fact i love Network Science
+🔭 I’m currently working on ???<br>🌱 I’m currently learning C#<br>💬 Ask me about PHP<br>⚡ Fun fact i love Network Science
 
 
 # 💻 Tech Stack:
@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=OniquirAK&icon=2&color=9)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/Onipay) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Onipay) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
